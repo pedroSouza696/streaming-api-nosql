@@ -1,0 +1,25 @@
+{
+  "name": "streaming-api-nosql",
+  "version": "1.0.0",
+  "description": "Repositório da equipe 6, curso de Sistemas de Informação, matéria Banco de Dados NOSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroSouza696/streaming-api-nosql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroSouza696/streaming-api-nosql/issues"
+  },
+  "homepage": "https://github.com/pedroSouza696/streaming-api-nosql#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4"
+  }
+}
